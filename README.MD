@@ -1,4 +1,4 @@
-Nanominer Docker base on Nviadia/Ubuntu 20.04
+Nanominer Docker base on nvidia/ubuntu 20.04
 
 == Build
 ```
